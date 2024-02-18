@@ -27,7 +27,8 @@
 ---
 
 ### :writing_hand: Для связи :
-<img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" width="30" height="30"> <a href="https://t.me/be_chips" target="_blank">telegram</a>✨
+<img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" width="20" height="20"> <a href="https://t.me/be_chips" target="_blank">Телерам</a>
+<img src="https://cdn.icon-icons.com/icons2/832/PNG/512/vk_icon-icons.com_66681.png" width="20" height="20"> <a href="https://vk.com/id193066267" target="_blank">Вконтакте</a>
 <!--
 **BikteevaMadina/BikteevaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
