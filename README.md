@@ -1,9 +1,10 @@
 <h1 align="center">Всем привет, меня зовут<a href="https://github.com/BikteevaMadina/" target="_blank">Мадина</a> ✨
 <h3 align="center">Я Frontend-разработчик</h3>
-<h3 align="center">Уже год я занимаюсь разработкой сайтов, меня очень привлекает идея создания идеального сайта-приложения для обучения и подготовки детей и студентов к сдаче экзаменов. Сайт который объединит и учителей, и учеников⚡</h3>
-<div aligan="center">
-  <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="600" height="300">
+<div align="center">
+  <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="300" height="300">
 </div>
+  <h3 align="center">Уже год я занимаюсь разработкой сайтов, меня очень привлекает идея создания идеального сайта-приложения для обучения и подготовки детей и студентов к сдаче экзаменов. Сайт который объединит и учителей, и учеников⚡</h3>
+
 <!--
 **BikteevaMadina/BikteevaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
