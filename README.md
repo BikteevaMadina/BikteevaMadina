@@ -1,6 +1,7 @@
 <h1 align="center">Всем привет, я <a href="https://github.com/BikteevaMadina/" target="_blank">Мадина</a> ✨
 <h3 align="center">Я знимаюсь вёрсткой сайтов и фронтенд разработкой</h3>
-<h3 align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BikteevaMadina=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</h3>
+<h3 align="center">Уже год я занимаюсь разработкой сайтов, меня очень привлекает иея создания идеального сайта-прилодения для обучения и подготовки детей и студентов к сдаче экзаменовю. Сайт который объединит и учителей, и учеников </h3>
+  
 <!--
 **BikteevaMadina/BikteevaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
