@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, я <a href="https://daniilshat.ru/" target="_blank">Мадина</a> 
+<h1 align="center">Всем привет, я <a href="https://github.com/BikteevaMadina/" target="_blank">Мадина</a> 
 
 <!--
 **BikteevaMadina/BikteevaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
