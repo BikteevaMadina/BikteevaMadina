@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="450" height="250">
 </div>
   <h3 align="center">Уже год я занимаюсь разработкой сайтов, меня очень привлекает идея создания идеального сайта-приложения для обучения и подготовки детей и студентов к сдаче экзаменов. Сайт который объединит и учителей, и учеников. Для этого я окончила курсы по вёрстке сайтов от Университета Синергия и прошла 10-месячное обучение в Яндекс.Практикум⚡</h3>
+  
 ---
+
 ### :hammer_and_wrench: Технологии и навыки :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
