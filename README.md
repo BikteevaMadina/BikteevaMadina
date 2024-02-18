@@ -4,7 +4,17 @@
   <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="450" height="250">
 </div>
   <h3 align="center">Уже год я занимаюсь разработкой сайтов, меня очень привлекает идея создания идеального сайта-приложения для обучения и подготовки детей и студентов к сдаче экзаменов. Сайт который объединит и учителей, и учеников. Для этого я окончила курсы по вёрстке сайтов от Университета Синергия и прошла 10-месячное обучение в Яндекс.Практикум⚡</h3>
-  
+---
+
+### :hammer_and_wrench: Технологии и навыки :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **BikteevaMadina/BikteevaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
